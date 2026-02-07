@@ -175,11 +175,12 @@ server.on("/cmd", [](){
 
 Video demo sistem dan diagram blok arsitektur dapat diakses melalui link berikut:
 
-Google Drive (Video & Diagram Blok):
-https://drive.google.com/drive/folders/10TdPYG_W0BkWQMEL7UgYImUm4TzD98cZ?usp=sharing
+- Google Drive (Video & Diagram Blok):  
+  https://drive.google.com/drive/folders/10TdPYG_W0BkWQMEL7UgYImUm4TzD98cZ?usp=sharing
 
-YouTube (Demo Video Versi YouTube):
-https://youtu.be/2lUDEG6GO9E
+- YouTube (Demo Video Versi YouTube):  
+  https://youtu.be/2lUDEG6GO9E
+
 ---
 
 ##  Kesimpulan
